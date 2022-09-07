@@ -27,6 +27,16 @@ diagram](https://lucid.app/lucidchart/19d3e9ef-de3a-4d1a-9a0c-11c578c3cee9/edit?
 
 ## Consequences
 
+Supporting personnel will have to "learn" yet another collaboration environment
+(github) and "lightweight" work process.
+
+Engineers and stakeholders will be able to see decision artifact changes over
+time using git based time machine tools (change history, diffs, etc.)
+
+With good commit hygiene and pull request processes, the motivation behind
+decisions and changes to decisions should be captured along with the decision.
+
+## More Reading
 See Michael Nygard's article, linked above. For a lightweight ADR toolset, see Nat Pryce's [adr-tools](https://github.com/npryce/adr-tools).
 
 See Spotify [Enginnering Blog
