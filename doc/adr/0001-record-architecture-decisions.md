@@ -29,4 +29,8 @@ diagram](https://lucid.app/lucidchart/19d3e9ef-de3a-4d1a-9a0c-11c578c3cee9/edit?
 
 See Michael Nygard's article, linked above. For a lightweight ADR toolset, see Nat Pryce's [adr-tools](https://github.com/npryce/adr-tools).
 
+See Spotify [Enginnering Blog
+post](https://engineering.atspotify.com/2020/04/when-should-i-write-an-architecture-decision-record/)
+for a fairly good rationale and some contexts.
+
 See the [Manifesto](../manifesto.pdf)
