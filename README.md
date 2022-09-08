@@ -9,6 +9,12 @@ Architecture decision making process as proposed by Max Templeton, Jon
 Prettyman, Darren Cruickshank and Tim Mickol.  Primarily focusing on how github
 "through the web" editing, branching, pull-requesting could work.
 
+## Navigating
+
+* (Index of Architecture Decisions)[doc/adr/]
+* (One Cambia Architecture Process Overview)[doc/manifesto.pdf]
+* (Supporting documentation)[doc/]
+
 ## Steps so far
 
 * Created a personally owned, public repo just to not pollute the Cambia github
@@ -17,3 +23,4 @@ Prettyman, Darren Cruickshank and Tim Mickol.  Primarily focusing on how github
 * cloned locally and created `initial-structure` branch
 * ran `adr-init`
 * started editing this readme
+* started working on the (initial ADR to use ADRs)[doc/adr/0001-record-architecture-decisions.md]
