@@ -11,9 +11,9 @@ Prettyman, Darren Cruickshank and Tim Mickol.  Primarily focusing on how github
 
 ## Navigating
 
-* (Index of Architecture Decisions)[doc/adr/]
-* (One Cambia Architecture Process Overview)[doc/manifesto.pdf]
-* (Supporting documentation)[doc/]
+* [Index of Architecture Decisions](doc/adr)
+* [One Cambia Architecture Process Overview](doc/manifesto.pdf)
+* [Supporting documentation](doc/)
 
 ## Steps so far
 
@@ -23,4 +23,4 @@ Prettyman, Darren Cruickshank and Tim Mickol.  Primarily focusing on how github
 * cloned locally and created `initial-structure` branch
 * ran `adr-init`
 * started editing this readme
-* started working on the (initial ADR to use ADRs)[doc/adr/0001-record-architecture-decisions.md]
+* started working on the [initial ADR to use ADRs](doc/adr/0001-record-architecture-decisions.md)
